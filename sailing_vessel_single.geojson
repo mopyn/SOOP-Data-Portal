@@ -4,14 +4,14 @@
     {
       "type": "Feature",
       "properties": {
-        "platform_name": "Sample Vessel",
+        "platform_name": "Fischkind",
         "platform_type": "Sailing Vessel",
         "platform_id": "SV-HAM-PORT",
         "campaign_name": "Hamburg to Portsmouth Demo",
         "data_source_url": "https://example.com/dataset/hamburg-portsmouth",
         "campaign_start_date": "2025-07-04T08:00:00Z",
         "campaign_end_date": "2025-07-06T18:00:00Z",
-        "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/SampleVessel.png"
+        "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/Fischkind.png"
       },
       "geometry": {
         "type": "LineString",
