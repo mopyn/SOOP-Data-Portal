@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "platform_type": "Cruise ship",
+        "platform_name": "Fridtjof Nansen",
+        "campaign_name": "Hamburg to Reykjavík",
+        "campaign_id": "FN-HAM-REY",
+        "data_source_url": "https://www.mare-reisen.de/land-meer-paketreisen/reise/iceland-circular-saga-hamburg-to-reykjavik-via-windswept-isles-of-the-north/termin/04-05-2025-478586.html",
+        "campaign_start_date": "2025-05-04T00:00:00Z",
+        "campaign_end_date": "2025-05-16T00:00:00Z",
+        "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/Fridtjof_Nansen.png"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [9.9937, 53.5413],
+          [8.0, 57.0],
+          [-1.3, 60.0],
+          [-6.8, 62.0],
+          [-21.9, 64.1],
+          [-21.9, 64.1466]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "platform_type": "Cruise ship",
+        "platform_name": "Fridtjof Nansen",
+        "campaign_name": "Cape Town to Danger Islands",
+        "campaign_id": "FN-CPT-DI",
+        "data_source_url": "https://example.com/dataset/capetown-dangerislands",
+        "campaign_start_date": "2025-11-01T00:00:00Z",
+        "campaign_end_date": "2025-11-20T00:00:00Z",
+        "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/Fridtjof_Nansen.png"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [18.4241, -33.9249],
+          [15.0, -40.0],
+          [-58.0, -63.9],
+          [-58.0, -63.9]
+        ]
+      }
+    }
+  ]
+}
