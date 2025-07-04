@@ -4,10 +4,10 @@
     {
       "type": "Feature",
       "properties": {
-        "platform_name": "Fischkind",
         "platform_type": "Sailing Vessel",
-        "platform_id": "SV-HAM-PORT",
-        "campaign_name": "Hamburg to Portsmouth Demo",
+        "platform_name": "Fischkind",
+        "campaign_name": "Hamburg to Portsmouth",
+        "campaign_id": "SV-HAM-PORT",
         "data_source_url": "https://example.com/dataset/hamburg-portsmouth",
         "campaign_start_date": "2025-07-04T08:00:00Z",
         "campaign_end_date": "2025-07-06T18:00:00Z",
@@ -22,6 +22,99 @@
           [2.0, 51.0],
           [-1.1, 50.8],
           [-1.0912, 50.7989]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "platform_type": "Sailing Vessel",
+        "platform_name": "Mersoleil",
+        "campaign_name": "Calais to New York",
+        "campaign_id": "SV-CAL-NYC",
+        "data_source_url": "https://example.com/dataset/calais-newyork",
+        "campaign_start_date": "2025-07-10T08:00:00Z",
+        "campaign_end_date": "2025-07-30T18:00:00Z",
+        "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/Mersoleil.png"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [1.8587, 50.9631],
+          [-5.0, 49.0],
+          [-20.0, 46.0],
+          [-40.0, 43.0],
+          [-60.0, 41.0],
+          [-74.0059, 40.7128]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "platform_type": "Sailing Vessel",
+        "platform_name": "Nomad",
+        "campaign_name": "Cape Town to Florida",
+        "campaign_id": "SV-CPT-FLA",
+        "data_source_url": "https://example.com/dataset/capetown-florida",
+        "campaign_start_date": "2025-08-01T08:00:00Z",
+        "campaign_end_date": "2025-08-25T18:00:00Z",
+        "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/Nomad.png"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [18.4241, -33.9249],
+          [0.0, 0.0],
+          [-30.0, 10.0],
+          [-50.0, 20.0],
+          [-70.0, 25.0],
+          [-80.1918, 25.7617]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "platform_type": "Sailing Vessel",
+        "platform_name": "Regina-Germania",
+        "campaign_name": "New Zealand to Fiji",
+        "campaign_id": "SV-NZ-FJI",
+        "data_source_url": "https://example.com/dataset/nz-fiji",
+        "campaign_start_date": "2025-09-01T08:00:00Z",
+        "campaign_end_date": "2025-09-10T18:00:00Z",
+        "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/Regina-Germania.png"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [174.7633, -36.8485],
+          [178.0, -30.0],
+          [179.0, -25.0],
+          [178.0650, -17.7134]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "platform_type": "Sailing Vessel",
+        "platform_name": "Stoiste",
+        "campaign_name": "Portsmouth to Gran Canaria",
+        "campaign_id": "SV-PORT-GC",
+        "data_source_url": "https://example.com/dataset/portsmouth-grancanaria",
+        "campaign_start_date": "2025-10-01T08:00:00Z",
+        "campaign_end_date": "2025-10-10T18:00:00Z",
+        "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/Stoiste.png"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-1.0912, 50.7989],
+          [-5.0, 48.0],
+          [-10.0, 45.0],
+          [-15.0, 40.0],
+          [-15.4134, 28.0997]
         ]
       }
     }
