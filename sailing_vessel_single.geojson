@@ -4,35 +4,25 @@
     {
       "type": "Feature",
       "properties": {
-        "platform_name": "Fischkind",
-        "campaign_id": "SV-001-FK",
-        "campaign_name": "North Sea Spring Survey 2025",
-        "data_source_url": "https://example.com/dataset/fischkind-2025",
-        "campaign_start_date": "2025-04-10T08:00:00Z",
-        "campaign_end_date": "2025-04-18T16:00:00Z"
+        "platform_name": "Sample Vessel",
+        "platform_type": "Sailing Vessel",
+        "platform_id": "SV-HAM-PORT",
+        "campaign_name": "Hamburg to Portsmouth Demo",
+        "data_source_url": "https://example.com/dataset/hamburg-portsmouth",
+        "campaign_start_date": "2025-07-04T08:00:00Z",
+        "campaign_end_date": "2025-07-06T18:00:00Z",
+        "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/SampleVessel.png"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [8.123, 54.321],
-          [8.500, 54.500],
-          [8.900, 54.800],
-          [9.200, 55.000],
-          [9.500, 55.200]
+          [9.9937, 53.5413],
+          [8.5, 54.0],
+          [4.0, 52.0],
+          [2.0, 51.0],
+          [-1.1, 50.8],
+          [-1.0912, 50.7989]
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "platform_name": "Fischkind",
-        "platform_type": "Sailing Vessel",
-        "platform_id": "SV-001-FK",
-        "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/Fischkind.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.8446, 54.9642]
       }
     }
   ]
