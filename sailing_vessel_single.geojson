@@ -5,7 +5,11 @@
       "type": "Feature",
       "properties": {
         "platform_name": "Fischkind",
-        "campaign_id": "SV-001-FK"
+        "campaign_id": "SV-001-FK",
+        "campaign_name": "North Sea Spring Survey 2025",
+        "data_source_url": "https://example.com/dataset/fischkind-2025",
+        "campaign_start_date": "2025-04-10T08:00:00Z",
+        "campaign_end_date": "2025-04-18T16:00:00Z"
       },
       "geometry": {
         "type": "LineString",
@@ -24,11 +28,7 @@
         "platform_name": "Fischkind",
         "platform_type": "Sailing Vessel",
         "platform_id": "SV-001-FK",
-        "campaign_name": "North Sea Spring Survey 2025",
-        "data_source_url": "https://example.com/dataset/fischkind-2025",
-        "campaign_start_date": "2025-04-10T08:00:00Z",
-        "campaign_end_date": "2025-04-18T16:00:00Z",
-        "platform_photo_url": "https://github.com/mopyn/SOOP-Data-Portal/tree/main/images/platforms/Fischkind.png"
+        "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/Fischkind.png"
       },
       "geometry": {
         "type": "Point",
