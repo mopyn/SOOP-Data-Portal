@@ -1,0 +1,15 @@
+{
+  "type": "Feature",
+  "properties": {
+    "platform_type": "Sailing Vessel",
+    "platform_name": "Malizia Explorer",
+    "campaign_name": "Vendeé Globe",
+    "campaign_id": "SV-ME-LOR",
+    "video_url": "https://youtube.com/shorts/U-YWiBPKov8?si=mEG1Icvcn6tEWshl",
+    "youtube_embed": "<iframe width='300' height='533' src='https://www.youtube.com/embed/U-YWiBPKov8' frameborder='0' allowfullscreen></iframe>"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -3.36, 47.75 ]
+  }
+}
