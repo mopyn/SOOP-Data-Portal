@@ -5,7 +5,7 @@
     "platform_name": "Malizia Explorer",
     "campaign_name": "Vendeé Globe",
     "campaign_id": "SV-ME-LOR",
-    "video_url": "https://youtube.com/shorts/U-YWiBPKov8?si=mEG1Icvcn6tEWshl",
+    "video_url": "<iframe width='300' height='533' src='https://www.youtube.com/embed/abc123XYZ' frameborder='0' allowfullscreen></iframe>",
     "youtube_embed": "<iframe width='300' height='533' src='https://www.youtube.com/embed/U-YWiBPKov8' frameborder='0' allowfullscreen></iframe>"
   },
   "geometry": {
