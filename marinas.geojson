@@ -6,7 +6,7 @@
       "platform_name": "Marina Flensburg",
       "campaign_name": "Marina Flensburg 2025",
       "campaign_id": "MA-FLE-2025",
-      "platform_photo_url": "https://github.com/mopyn/SOOP-Data-Portal/tree/main/images/platforms/marinas/Marina Flensburg.png",
+      "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/marinas/Marina%20Flensburg.png",
       "data_source_url": "https://geomar-dashboard-v03.streamlit.app/"
     },
     "geometry": {
@@ -21,7 +21,7 @@
       "platform_name": "Marina Kappeln",
       "campaign_name": "Marina Kappeln 2025",
       "campaign_id": "MA-KAP-2025",
-      "platform_photo_url": "https://github.com/mopyn/SOOP-Data-Portal/tree/main/images/platforms/marinas/Marina Kappeln.png",
+      "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/marinas/Marina%20Kappeln.png",
       "data_source_url": "https://geomar-dashboard-v03.streamlit.app/"
     },
     "geometry": {
@@ -36,7 +36,7 @@
       "platform_name": "Badestek Kiel",
       "campaign_name": "Badestek Kiel 2025",
       "campaign_id": "MA-KIE-2025",
-      "platform_photo_url": "https://github.com/mopyn/SOOP-Data-Portal/tree/main/images/platforms/marinas/Badestek Kiel.png",
+      "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/marinas/Badestek%20Kiel.png",
       "data_source_url": "https://geomar-dashboard-v03.streamlit.app/"
     },
     "geometry": {
@@ -51,7 +51,7 @@
       "platform_name": "Marina Avernakø",
       "campaign_name": "Marina Avernakø 2025",
       "campaign_id": "MA-AVE-2025",
-      "platform_photo_url": "https://github.com/mopyn/SOOP-Data-Portal/tree/main/images/platforms/marinas/Marina Avernakø.png",
+      "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/marinas/Marina%20Avernakø.png",
       "data_source_url": "https://geomar-dashboard-v03.streamlit.app/"
     },
     "geometry": {
