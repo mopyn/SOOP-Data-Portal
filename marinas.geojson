@@ -58,5 +58,20 @@
       "type": "Point",
       "coordinates": [10.165278, 55.021944]
     }
+  },
+  {
+  "type": "Feature",
+  "properties": {
+    "platform_type": "Marina",
+    "platform_name": "Marina Boltenhagen",
+    "campaign_name": "Marina Boltenhagen 2025",
+    "campaign_id": "MA-BOL-2025",
+    "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/marinas/Marina%20Boltenhagen.png",
+    "data_source_url": "https://geomar-dashboard-v03.streamlit.app/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [11.25, 53.971389]
   }
+}
 ]
