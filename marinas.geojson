@@ -1,15 +1,62 @@
-{
-  "type": "Feature",
-  "properties": {
-    "platform_type": "Sailing Vessel",
-    "platform_name": "Malizia Explorer",
-    "campaign_name": "Vendeé Globe",
-    "campaign_id": "SV-ME-LOR",
-    "video_url": "<iframe width='100' height='233' src='https://www.youtube.com/embed/U-YWiBPKov8' frameborder='0' allowfullscreen></iframe>",
-    "iconUrl": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/icons/Anchor_icon.svg"
+[
+  {
+    "type": "Feature",
+    "properties": {
+      "platform_type": "Marina",
+      "platform_name": "Marina Flensburg",
+      "campaign_name": "Marina Flensburg 2025",
+      "campaign_id": "MA-FLE-2025",
+      "platform_photo_url": "https://github.com/mopyn/SOOP-Data-Portal/tree/main/images/platforms/marinas/Marina Flensburg.png",
+      "data_source_url": "https://geomar-dashboard-v03.streamlit.app/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [9.428611, 54.804167]
+    }
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [ -3.36, 47.75 ]
+  {
+    "type": "Feature",
+    "properties": {
+      "platform_type": "Marina",
+      "platform_name": "Marina Kappeln",
+      "campaign_name": "Marina Kappeln 2025",
+      "campaign_id": "MA-KAP-2025",
+      "platform_photo_url": "https://github.com/mopyn/SOOP-Data-Portal/tree/main/images/platforms/marinas/Marina Kappeln.png",
+      "data_source_url": "https://geomar-dashboard-v03.streamlit.app/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [9.933056, 54.662778]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "platform_type": "Marina",
+      "platform_name": "Badestek Kiel",
+      "campaign_name": "Badestek Kiel 2025",
+      "campaign_id": "MA-KIE-2025",
+      "platform_photo_url": "https://github.com/mopyn/SOOP-Data-Portal/tree/main/images/platforms/marinas/Badestek Kiel.png",
+      "data_source_url": "https://geomar-dashboard-v03.streamlit.app/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [10.151389, 54.323333]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "platform_type": "Marina",
+      "platform_name": "Marina Avernakø",
+      "campaign_name": "Marina Avernakø 2025",
+      "campaign_id": "MA-AVE-2025",
+      "platform_photo_url": "https://github.com/mopyn/SOOP-Data-Portal/tree/main/images/platforms/marinas/Marina Avernakø.png",
+      "data_source_url": "https://geomar-dashboard-v03.streamlit.app/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [10.165278, 55.021944]
+    }
   }
-}
+]
