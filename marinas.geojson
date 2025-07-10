@@ -83,7 +83,7 @@
     "campaign_id": "MA-LOR-2025",
     "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/marinas/Captaincy%20of%20the%20Port%20of%20Lorient%20La%20Base.png",
     "data_source_url": "https://geomar-dashboard-v03.streamlit.app/",
-    "video_url": "https://www.youtube.com/embed/1mvkw7bkccM"
+    "video_url": "<iframe width=\"300\" height=\"533\" src=\"https://www.youtube.com/embed/1mvkw7bkccM\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>"
   },
   "geometry": {
     "type": "Point",
