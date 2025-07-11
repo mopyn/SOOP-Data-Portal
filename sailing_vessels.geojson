@@ -9,10 +9,10 @@
         "campaign_name": "Hamburg to Portsmouth",
         "campaign_id": "SV-HAM-PORT",
         "data_source_url": "https://example.com/dataset/hamburg-portsmouth",
-        "campaign_start_date": "2025-07-04T08:00:00Z",
-        "campaign_end_date": "2025-07-06T18:00:00Z",
+        "campaign_start_date": "2025-07-04",
+        "campaign_end_date": "2025-07-06",
         "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/Fischkind.png",
-        "data_collected": "Air pressure (hPa)"
+        "data_collected": "Atmospheric pressure (hPa)"
       },
       "geometry": {
         "type": "LineString",
@@ -34,10 +34,10 @@
         "campaign_name": "Calais to New York",
         "campaign_id": "SV-CAL-NYC",
         "data_source_url": "https://example.com/dataset/calais-newyork",
-        "campaign_start_date": "2025-07-10T08:00:00Z",
-        "campaign_end_date": "2025-07-30T18:00:00Z",
+        "campaign_start_date": "2025-07-10",
+        "campaign_end_date": "2025-07-30",
         "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/Mersoleil.png",
-        "data_collected": "Air pressure (hPa)"
+        "data_collected": "Atmospheric pressure (hPa)"
       },
       "geometry": {
         "type": "LineString",
@@ -59,10 +59,10 @@
         "campaign_name": "Cape Town to Florida",
         "campaign_id": "SV-CPT-FLA",
         "data_source_url": "https://example.com/dataset/capetown-florida",
-        "campaign_start_date": "2025-08-01T08:00:00Z",
-        "campaign_end_date": "2025-08-25T18:00:00Z",
+        "campaign_start_date": "2025-08-01",
+        "campaign_end_date": "2025-08-25",
         "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/Nomad.png",
-        "data_collected": "Air pressure (hPa)"
+        "data_collected": "Atmospheric pressure (hPa)"
       },
       "geometry": {
         "type": "LineString",
@@ -84,10 +84,10 @@
         "campaign_name": "New Zealand to Fiji",
         "campaign_id": "SV-NZ-FJI",
         "data_source_url": "https://example.com/dataset/nz-fiji",
-        "campaign_start_date": "2025-09-01T08:00:00Z",
-        "campaign_end_date": "2025-09-10T18:00:00Z",
+        "campaign_start_date": "2025-09-01",
+        "campaign_end_date": "2025-09-10",
         "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/Regina-Germania.png",
-        "data_collected": "Air pressure (hPa)"
+        "data_collected": "Atmospheric pressure (hPa)"
       },
       "geometry": {
         "type": "LineString",
@@ -107,10 +107,10 @@
         "campaign_name": "Portsmouth to Gran Canaria",
         "campaign_id": "SV-PORT-GC",
         "data_source_url": "https://example.com/dataset/portsmouth-grancanaria",
-        "campaign_start_date": "2025-10-01T08:00:00Z",
-        "campaign_end_date": "2025-10-10T18:00:00Z",
+        "campaign_start_date": "2025-10-01",
+        "campaign_end_date": "2025-10-10",
         "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/Stoiste.png",
-        "data_collected": "Air pressure (hPa)"
+        "data_collected": "Atmospheric pressure (hPa)"
       },
       "geometry": {
         "type": "LineString",
@@ -131,10 +131,10 @@
         "campaign_name": "Kiel to Rødbyhavn",
         "campaign_id": "SV-KIEL-RODBY",
         "data_source_url": "https://dashboard.o2a-data.de/dashboards/163",
-        "campaign_start_date": "2025-07-15T08:00:00Z",
-        "campaign_end_date": "2025-07-15T14:30:00Z",
+        "campaign_start_date": "2025-07-15",
+        "campaign_end_date": "2025-07-15",
         "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/Amazone.png",
-        "data_collected": "Air pressure (hPa)"
+        "data_collected": "Atmospheric pressure (hPa)"
       },
       "geometry": {
         "type": "LineString",
