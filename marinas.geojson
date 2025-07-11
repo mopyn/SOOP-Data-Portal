@@ -7,7 +7,7 @@
       "campaign_name": "Marina Flensburg 2025",
       "campaign_id": "MA-FLE-2025",
       "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/marinas/Marina%20Flensburg.png",
-      "data_source_url": "https://geomar-dashboard-v03.streamlit.app/"
+      "data_source_url": "https://www.soop-platform.earth/marinas/"
     },
     "geometry": {
       "type": "Point",
@@ -22,7 +22,7 @@
       "campaign_name": "Marina Kappeln 2025",
       "campaign_id": "MA-KAP-2025",
       "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/marinas/Marina%20Kappeln.png",
-      "data_source_url": "https://geomar-dashboard-v03.streamlit.app/"
+      "data_source_url": "https://www.soop-platform.earth/marinas/"
     },
     "geometry": {
       "type": "Point",
@@ -37,7 +37,7 @@
       "campaign_name": "Badesteg Kiel 2025",
       "campaign_id": "MA-KIE-2025",
       "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/marinas/Badesteg%20Kiel.png",
-      "data_source_url": "https://geomar-dashboard-v03.streamlit.app/"
+      "data_source_url": "https://www.soop-platform.earth/marinas/"
     },
     "geometry": {
       "type": "Point",
@@ -52,7 +52,7 @@
       "campaign_name": "Marina Avernakø 2025",
       "campaign_id": "MA-AVE-2025",
       "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/marinas/Marina%20Avernakø.png",
-      "data_source_url": "https://geomar-dashboard-v03.streamlit.app/"
+      "data_source_url": "https://www.soop-platform.earth/marinas/"
     },
     "geometry": {
       "type": "Point",
@@ -67,7 +67,7 @@
     "campaign_name": "Marina Boltenhagen 2025",
     "campaign_id": "MA-BOL-2025",
     "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/marinas/Marina%20Boltenhagen.png",
-    "data_source_url": "https://geomar-dashboard-v03.streamlit.app/"
+    "data_source_url": "https://www.soop-platform.earth/marinas/"
   },
   "geometry": {
     "type": "Point",
@@ -82,7 +82,7 @@
     "campaign_name": "Captaincy of the Port of Lorient La Base 2025",
     "campaign_id": "MA-LOR-2025",
     "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/marinas/Captaincy%20of%20the%20Port%20of%20Lorient%20La%20Base.png",
-    "data_source_url": "https://geomar-dashboard-v03.streamlit.app/",
+    "data_source_url": "https://www.soop-platform.earth/marinas/",
     "video_url": "<iframe width=\"300\" height=\"533\" src=\"https://www.youtube.com/embed/1mvkw7bkccM\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>"
   },
   "geometry": {
