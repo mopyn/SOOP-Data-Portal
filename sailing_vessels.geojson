@@ -11,7 +11,8 @@
         "data_source_url": "https://example.com/dataset/hamburg-portsmouth",
         "campaign_start_date": "2025-07-04T08:00:00Z",
         "campaign_end_date": "2025-07-06T18:00:00Z",
-        "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/Fischkind.png"
+        "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/Fischkind.png",
+        "data_collected": "Air pressure (hPa)"
       },
       "geometry": {
         "type": "LineString",
@@ -35,7 +36,8 @@
         "data_source_url": "https://example.com/dataset/calais-newyork",
         "campaign_start_date": "2025-07-10T08:00:00Z",
         "campaign_end_date": "2025-07-30T18:00:00Z",
-        "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/Mersoleil.png"
+        "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/Mersoleil.png",
+        "data_collected": "Air pressure (hPa)"
       },
       "geometry": {
         "type": "LineString",
@@ -59,7 +61,8 @@
         "data_source_url": "https://example.com/dataset/capetown-florida",
         "campaign_start_date": "2025-08-01T08:00:00Z",
         "campaign_end_date": "2025-08-25T18:00:00Z",
-        "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/Nomad.png"
+        "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/Nomad.png",
+        "data_collected": "Air pressure (hPa)"
       },
       "geometry": {
         "type": "LineString",
@@ -83,7 +86,8 @@
         "data_source_url": "https://example.com/dataset/nz-fiji",
         "campaign_start_date": "2025-09-01T08:00:00Z",
         "campaign_end_date": "2025-09-10T18:00:00Z",
-        "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/Regina-Germania.png"
+        "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/Regina-Germania.png",
+        "data_collected": "Air pressure (hPa)"
       },
       "geometry": {
         "type": "LineString",
@@ -105,7 +109,8 @@
         "data_source_url": "https://example.com/dataset/portsmouth-grancanaria",
         "campaign_start_date": "2025-10-01T08:00:00Z",
         "campaign_end_date": "2025-10-10T18:00:00Z",
-        "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/Stoiste.png"
+        "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/Stoiste.png",
+        "data_collected": "Air pressure (hPa)"
       },
       "geometry": {
         "type": "LineString",
@@ -128,7 +133,8 @@
         "data_source_url": "https://dashboard.o2a-data.de/dashboards/163",
         "campaign_start_date": "2025-07-15T08:00:00Z",
         "campaign_end_date": "2025-07-15T14:30:00Z",
-        "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/Amazone.png"
+        "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/Amazone.png",
+        "data_collected": "Air pressure (hPa)"
       },
       "geometry": {
         "type": "LineString",

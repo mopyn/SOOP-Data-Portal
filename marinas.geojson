@@ -7,7 +7,11 @@
       "campaign_name": "Marina Flensburg 2025",
       "campaign_id": "MA-FLE-2025",
       "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/marinas/Marina%20Flensburg.png",
-      "data_source_url": "https://www.soop-platform.earth/marinas/"
+      "data_source_url": "https://www.soop-platform.earth/marinas/",
+      "data_collected": [
+        "Water temperature (°C)",
+        "Water level (m)"
+      ]
     },
     "geometry": {
       "type": "Point",
@@ -22,7 +26,11 @@
       "campaign_name": "Marina Kappeln 2025",
       "campaign_id": "MA-KAP-2025",
       "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/marinas/Marina%20Kappeln.png",
-      "data_source_url": "https://www.soop-platform.earth/marinas/"
+      "data_source_url": "https://www.soop-platform.earth/marinas/",
+      "data_collected": [
+        "Water temperature (°C)",
+        "Water level (m)"
+      ]
     },
     "geometry": {
       "type": "Point",
@@ -37,7 +45,11 @@
       "campaign_name": "Badesteg Kiel 2025",
       "campaign_id": "MA-KIE-2025",
       "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/marinas/Badesteg%20Kiel.png",
-      "data_source_url": "https://www.soop-platform.earth/marinas/"
+      "data_source_url": "https://www.soop-platform.earth/marinas/",
+      "data_collected": [
+        "Water temperature (°C)",
+        "Water level (m)"
+      ]
     },
     "geometry": {
       "type": "Point",
@@ -52,7 +64,11 @@
       "campaign_name": "Marina Avernakø 2025",
       "campaign_id": "MA-AVE-2025",
       "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/marinas/Marina%20Avernakø.png",
-      "data_source_url": "https://www.soop-platform.earth/marinas/"
+      "data_source_url": "https://www.soop-platform.earth/marinas/",
+      "data_collected": [
+        "Water temperature (°C)",
+        "Water level (m)"
+      ]
     },
     "geometry": {
       "type": "Point",
@@ -60,34 +76,42 @@
     }
   },
   {
-  "type": "Feature",
-  "properties": {
-    "platform_type": "Marina",
-    "platform_name": "Marina Boltenhagen",
-    "campaign_name": "Marina Boltenhagen 2025",
-    "campaign_id": "MA-BOL-2025",
-    "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/marinas/Marina%20Boltenhagen.png",
-    "data_source_url": "https://www.soop-platform.earth/marinas/"
+    "type": "Feature",
+    "properties": {
+      "platform_type": "Marina",
+      "platform_name": "Marina Boltenhagen",
+      "campaign_name": "Marina Boltenhagen 2025",
+      "campaign_id": "MA-BOL-2025",
+      "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/marinas/Marina%20Boltenhagen.png",
+      "data_source_url": "https://www.soop-platform.earth/marinas/",
+      "data_collected": [
+        "Water temperature (°C)",
+        "Water level (m)"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [11.25, 53.971389]
+    }
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [11.25, 53.971389]
+  {
+    "type": "Feature",
+    "properties": {
+      "platform_type": "Marina",
+      "platform_name": "Captaincy of the Port of Lorient La Base",
+      "campaign_name": "Captaincy of the Port of Lorient La Base 2025",
+      "campaign_id": "MA-LOR-2025",
+      "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/marinas/Captaincy%20of%20the%20Port%20of%20Lorient%20La%20Base.png",
+      "data_source_url": "https://www.soop-platform.earth/marinas/",
+      "video_url": "<iframe width=\"300\" height=\"533\" src=\"https://www.youtube.com/embed/1mvkw7bkccM\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
+      "data_collected": [
+        "Water temperature (°C)",
+        "Water level (m)"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-3.37344, 47.72975]
+    }
   }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "platform_type": "Marina",
-    "platform_name": "Captaincy of the Port of Lorient La Base",
-    "campaign_name": "Captaincy of the Port of Lorient La Base 2025",
-    "campaign_id": "MA-LOR-2025",
-    "platform_photo_url": "https://raw.githubusercontent.com/mopyn/SOOP-Data-Portal/main/images/platforms/marinas/Captaincy%20of%20the%20Port%20of%20Lorient%20La%20Base.png",
-    "data_source_url": "https://www.soop-platform.earth/marinas/",
-    "video_url": "<iframe width=\"300\" height=\"533\" src=\"https://www.youtube.com/embed/1mvkw7bkccM\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [-3.37344, 47.72975]
-  }
-}
 ]
