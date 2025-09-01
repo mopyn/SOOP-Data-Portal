@@ -1,0 +1,16 @@
+geometry	platform_type	platform	campaign_id	date_time_start	date_time_end	parameter_list	parameter_dict	device_list	registry_uri_list	data_url	platform_photo_url
+"LINESTRING(9.78385 54.895083, 9.733183 54.8307, 9.659548 54.843638, 9.553867 54.870933, 9.44785 54.809992, 9.436663 54.789628, 9.472817 54.830767, 9.56685 54.87595, 9.682683 54.8393, 9.822883 54.85605, 9.930167 54.884433, 9.935283 54.883533, 9.93534 54.88343, 9.9354 54.883333, 9.935383 54.88335, 9.935333 54.8833, 9.935317 54.883283, 9.935317 54.8833, 9.93445 54.8835, 9.9253 54.890983, 9.8638 54.86775, 9.94935 54.84435, 10.06799 54.850285, 10.155267 54.9143, 10.219178 54.984575, 10.289167 54.95785, 10.417417 54.904967, 9.938133 54.665283, 9.93805 54.66525)"	Sailing Vessel	Atlantis	SV-ATLANTIS-C1-25	2025-07-16T19:27:34Z		["Air pressure (hPa)"]		["Smartboatia Hub"]		https://timeseries.geomar.de/soop/FROST-Server/v1.1	
+	Sailing Vessel	Boemerang	SV-BOEMERANG-C1-25	2025-07-14T10:20:26Z		["Air pressure (hPa)"]		["Smartboatia Hub"]		https://timeseries.geomar.de/soop/FROST-Server/v1.2	
+	Sailing Vessel	Decibel	SV-DECIBEL-C1-25	2025-07-13T11:51:49Z		["Air pressure (hPa)"]		["Smartboatia Hub"]		https://timeseries.geomar.de/soop/FROST-Server/v1.3	
+	Sailing Vessel	Fischkind	SV-FISCHKIND-C1-25	2025-07-11T12:05:08Z		["Air pressure (hPa)"]		["Smartboatia Hub"]		https://timeseries.geomar.de/soop/FROST-Server/v1.4	
+	Sailing Vessel	Funky Time	SV-FUNKYTIME-C1-25	2025-07-14T11:13:22Z		["Air pressure (hPa)"]		["Smartboatia Hub"]		https://timeseries.geomar.de/soop/FROST-Server/v1.5	
+	Sailing Vessel	Hanna	SV-HANNA-C1-25	2025-07-15T00:15:03Z		["Air pressure (hPa)"]		["Smartboatia Hub"]		https://timeseries.geomar.de/soop/FROST-Server/v1.6	
+	Sailing Vessel	Kerry Blue	SV-KERRYBLUE-C1-25	2025-06-01T00:00:00+00:00							
+	Sailing Vessel	Malizia Explorer	SV-MALIZEXPLOR-C1-25			["Plankton species"]		["Planktoscope"]			
+	Sailing Vessel	Mersoleil	SV-MERSOLEIL-C1-25	2025-07-19T23:28:49Z		["Air pressure (hPa)"]		["Smartboatia Hub"]		https://timeseries.geomar.de/soop/FROST-Server/v1.6	
+	Sailing Vessel	Nomad	SV-NOMAD-C1-25			["Air pressure (hPa)"]		["Smartboatia Hub"]		https://timeseries.geomar.de/soop/FROST-Server/v1.7	
+	Sailing Vessel	Playmobil	SV-PLAYMOBIL-C1-25	2025-07-14T08:34:17Z		["Air pressure (hPa)"]		["Smartboatia Hub"]		https://timeseries.geomar.de/soop/FROST-Server/v1.8	
+	Sailing Vessel	Regina-Germania	SV-REGINGERMA-C1-25	2025-08-26T10:30:51Z		["Air pressure (hPa)"]		["Smartboatia Hub"]		https://timeseries.geomar.de/soop/FROST-Server/v1.9	
+	Sailing Vessel	Resilience	SV-RESILIENCE-C1-25			["Plankton species"]		["Planktoscope"]			
+	Sailing Vessel	Stoiste	SV-STOISTE-C1-25	2025-07-21T13:47:45Z		["Air pressure (hPa)"]		["Smartboatia Hub"]		https://timeseries.geomar.de/soop/FROST-Server/v1.9	
+	Sailing Vessel	Tres Hombres	SV-TRESHOMBRES-C1-25			["Plankton species"]		["Planktoscope"]			
